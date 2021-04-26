@@ -1,0 +1,7 @@
+echo "# bimusk" >> README.md 
+git init 
+git ekle README.md 
+git commit -m "ilk commit" 
+git şube -M ana 
+git uzaktan kaynak ekle https://github.com/polat2702/bimusk.git
+ git itme - sen asıl ana
